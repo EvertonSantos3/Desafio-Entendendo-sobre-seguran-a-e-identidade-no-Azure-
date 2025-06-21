@@ -1,0 +1,1 @@
+# Desafio-Entendendo-sobre-seguran-a-e-identidade-no-Azure-
